@@ -1,0 +1,2 @@
+1. reactions and content merge on left content_id 
+2.remove user_id_x (reaction)
